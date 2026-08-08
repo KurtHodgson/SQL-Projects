@@ -5,6 +5,7 @@
         "*.csv": "duckdb.dataFileViewer",
         "*.tsv": "duckdb.dataFileViewer",
         "*.xlsx": "duckdb.dataFileViewer"
+<<<<<<< HEAD
     },
     "duckdb.databases": [
         {
@@ -15,4 +16,7 @@
         }
     ],
     "duckdb.defaultDatabase": "Churning"
+=======
+    }
+>>>>>>> 732419e503f74f13d5ab224e5a5f023b5fd382cf
 }
